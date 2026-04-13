@@ -11,13 +11,14 @@ A minimalist, high-performance CLI snippet manager designed for developers and r
 
 ## 🚀 Installation
 
-You can install `clip` using the following one-liner script:
+To install `clip`, clone this repository and run the installation script:
 
 ```bash
-# 1. Download the installer
-curl -sSL [https://raw.githubusercontent.com/YOUR_USERNAME/clip-alias/main/install.sh](https://raw.githubusercontent.com/YOUR_USERNAME/clip-alias/main/install.sh) -o install.sh
+# 1. Clone the repository
+git clone [https://github.com/artificialsilver/quick-clip.git](https://github.com/artificialsilver/quick-clip.git)
+cd quick-clip
 
-# 2. Make it executable
+# 2. Make the script executable
 chmod +x install.sh
 
 # 3. Run the installer
