@@ -15,7 +15,7 @@ To install `clip`, clone this repository and run the installation script:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/artificialsilver/quick-clip.git](https://github.com/artificialsilver/quick-clip.git)
+git clone https://github.com/artificialsilver/quick-clip.git
 cd quick-clip
 
 # 2. Make the script executable
